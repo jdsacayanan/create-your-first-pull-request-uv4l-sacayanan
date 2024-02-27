@@ -1,1 +1,4 @@
 Learn the fundamentals of web development, including HTML, CSS, and JavaScript and to develop my own functional web application.
+
+Notes:
+	I fully agree with the expectations, as fundamentals are highly important when creating web applications.
